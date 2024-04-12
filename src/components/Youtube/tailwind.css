@@ -1,0 +1,6 @@
+@tailwind components;
+@layer components {
+    .background {
+        @apply bg-white dark:bg-[#0f0f0f] h-screen;
+    }
+}
